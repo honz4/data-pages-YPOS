@@ -1,0 +1,31 @@
+Cíle předmětu (anotace):
+Předmět seznámí studenty se základními principy fungování a výstavby počítačových sítí.
+
+Požadavky na studenta
+Požadavky na zápočet:
+Aktivita na cvičeních. Během semestru budou na cvičeních zadávány k vypracování úlohy vztahující se k akutálně přednášenému tématu.
+Vypracování těchto úloh bude bodováno a zápočet bude udělen na základě předepsaného bodového zisku.
+
+Požadavky na zkoušku:
+Zvládnutí učiva prezentovaného na přednáškach a cvičeních student předvede vypracováním praktické úlohy v kombinaci se zodpovězením teoretických otázek.
+
+Obsah
+  * Počítačové sítě:rozlehlost počítačových sítí, struktura počítačové sítě, topologie, standardizace počítačových sítí.
+  * Kódování informací:teorie informace, metody symetrické kryptografie, distribuce tajných klíčů symetrické kryptografie, asymetrická kryptografie, podpisování.
+  * Komprese dat:frekvenčně závislé kódování, Huffmanovo kódování, aritmetické kódování, kontextově závislé kódování, RLE - čítače opakovaných prvků, vysílání diferencí zpráv, slovníková komprese (LZW).
+  * Přenos dat:směr přenosu, paralelní a sériový přenos, asynchronní a synchronní sériový přenos, zabezpečení proti chybám.
+  * Lokální počítačové sítě: vlastnosti a použití, přenosová média, technika přenosu, přístupové metody, typy sítí.
+  * Směrování:statické a dynamické směrování, centralizované směrování, izolované směrování, distribuované směrování.
+  * Propojování sítí:opakovač, most, přepínač, směrovač, router, brána.
+  * Rozlehlé počítačové sítě:vlastnosti a využití, přenosová média, technika přenosu.
+  * Internet:charakteristika Internetu, adresování v TCP/IP síti, směrování v TCP/IP síti, možnosti připojení k Internetu, služby Internetu.
+
+
+Garanti: doc. Ing. Lenka Motyčková, CSc., Přednášející: Mgr. Jan Outrata, Ph.D., 
+
+======Literatura======
+  * Smith R. E. Internet Cryptography. Addison Wesley, 1997.
+  * Walton S. E. IPv6 Programming. Addison Wesley, 2002.
+  * Lhotka L. Server v Internetu. Kopp, 1996.
+  * Stevens W. R. TCP/IP Illustrated, Volume 1 -- The Protocols. Addison Wesley, 1994.
+
